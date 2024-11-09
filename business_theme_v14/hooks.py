@@ -1,12 +1,12 @@
 from . import __version__ as app_version
 
 app_name = "business_theme_v14"
-app_title = "Business Theme V14"
-app_publisher = "Midocean Technologies Pvt Ltd"
-app_description = "Business Theme for ERPNext / Frappe"
+app_title = "G2Virtu Theme V14"
+app_publisher = "G2Virtu.com"
+app_description = "Business Theme for Frappe"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "sagar@midocean.tech"
+app_email = "info@g2virtu.com"
 app_license = "MIT"
 
 # Includes in <head>
